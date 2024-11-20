@@ -1,3 +1,15 @@
+## 3.4.0
+
+ - **FEAT**: set JVM target to 1.8.
+
+## 3.3.0
+
+ - **FEAT**: upgrade kotlin to `1.8.22` (#25).
+
+## 3.2.0
+
+ - **FEAT**: moderize Android project (#24).
+
 ## 3.1.0
 
  - **FEAT**: add purpose 11: Use limited data to select content (#12).
